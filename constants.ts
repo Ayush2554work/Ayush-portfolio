@@ -116,6 +116,15 @@ export const PROJECTS: Project[] = [
     repoLink: "https://github.com/Ayush2554work/AYUSH-Apache-jira-scraper",
     techStack: ["Python", "Web Scraping", "Data Processing"],
     imageUrl: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&q=80"
+  },
+  {
+    id: "ai-scope",
+    title: "Sutikshna - AI Scope",
+    description: "AI-powered ballistic scope simulation with advanced object detection, facial recognition, and real-time ballistic calculations in a high-tech environment.",
+    liveLink: "https://github.com/Ayush2554work/Sutikshna--Ayi--Scope-",
+    repoLink: "https://github.com/Ayush2554work/Sutikshna--Ayi--Scope-",
+    techStack: ["Artificial Intelligence", "Computer Vision", "HTML5 Canvas", "JavaScript"],
+    imageUrl: "/ai_scope.png"
   }
 ];
 
