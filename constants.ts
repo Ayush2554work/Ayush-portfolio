@@ -1,6 +1,6 @@
 import { Certification, Project, SocialLink } from './types';
 
-export const PROFILE_IMAGE_URL = "./Ayush.png";
+export const PROFILE_IMAGE_URL = "/Ayush.png";
 
 export const RESUME_LINK = "https://drive.google.com/file/d/1NiXjKTn8J5B5Nmk8Dqb-7anHmznRU8Dp/view?usp=sharing";
 
@@ -97,7 +97,7 @@ export const PROJECTS: Project[] = [
     liveLink: "https://seo-mastery-app.vercel.app",
     repoLink: "https://github.com/Ayush2554work/SEO-Mastery-App",
     techStack: ["HTML", "CSS", "JavaScript", "Chart.js"],
-    imageUrl: "./image.png"
+    imageUrl: "/image.png"
   },
   {
     id: "seo-mobile",
