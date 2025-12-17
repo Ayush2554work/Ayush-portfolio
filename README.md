@@ -139,7 +139,7 @@ Featuring 23+ professional certifications from:
 - **Live Demo**: [View Portfolio](https://ayush2554work.github.io/portfolio_Ayush/)
 - **GitHub**: [@Ayush2554work](https://github.com/Ayush2554work)
 - **LinkedIn**: [Ayush Kumar](https://www.linkedin.com/in/ayush-kumar2554)
-- **Resume**: [Download PDF](https://drive.google.com/file/d/1FrP_XrnhKHiFmEnl1Rw1at6pwpoVL4aB/view?usp=sharing)
+- **Resume**: [Download PDF](https://drive.google.com/file/d/1JA2CZg58VYsDJdM4A-uOfIR55HYNu3xV/view?usp=sharing)
 
 ## 📧 Contact
 
