@@ -72,14 +72,26 @@ const CertificateModal: React.FC<CertificateModalProps> = ({
                                 </div>
                             </div>
 
-                            {/* Certificate iFrame */}
-                            <div className="relative w-full h-[calc(100%-5rem)] bg-slate-950/50">
-                                <iframe
-                                    src={certificateUrl}
-                                    className="w-full h-full"
-                                    title={`Certificate: ${title}`}
-                                    sandbox="allow-same-origin allow-scripts allow-popups allow-forms"
-                                />
+                            {/* Certificate Content Placeholder (since iframes are blocked by providers) */}
+                            <div className="relative w-full h-[calc(100%-5rem)] bg-slate-950/50 flex flex-col items-center justify-center p-8 text-center">
+                                <div className="w-20 h-20 rounded-full bg-cyan-500/10 flex items-center justify-center mb-6 ring-1 ring-cyan-500/30">
+                                    <ExternalLink size={32} className="text-cyan-400" />
+                                </div>
+                                <h3 className="text-xl font-semibold text-white mb-2">
+                                    View Verified Certificate
+                                </h3>
+                                <p className="text-gray-400 max-w-md mb-8">
+                                    For security reasons, the certificate provider prevents this document from being embedded directly. Please view it on their official website.
+                                </p>
+                                <a
+                                    href={certificateUrl}
+                                    target="_blank"
+                                    rel="noopener noreferrer"
+                                    className="px-6 py-3 rounded-xl bg-gradient-to-r from-cyan-600 to-blue-600 text-white font-medium hover:from-cyan-500 hover:to-blue-500 shadow-lg shadow-cyan-500/20 hover:shadow-cyan-500/30 transition-all flex items-center gap-2 group"
+                                >
+                                    Open Certificate
+                                    <ExternalLink size={18} className="group-hover:translate-x-0.5 group-hover:-translate-y-0.5 transition-transform" />
+                                </a>
                             </div>
 
                             {/* Decorative glow effects */}

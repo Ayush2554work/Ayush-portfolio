@@ -2,7 +2,7 @@
 
 A stunning, interactive portfolio website showcasing projects, certifications, and achievements with a beautiful space-themed design. Built with React, TypeScript, and Framer Motion for smooth animations and a premium user experience.
 
-![Portfolio Preview](./Ayush.png)
+![Portfolio Preview](./myphoto2.png)
 
 ## ✨ Features
 
@@ -139,7 +139,7 @@ Featuring 23+ professional certifications from:
 - **Live Demo**: [View Portfolio](https://ayush2554work.github.io/portfolio_Ayush/)
 - **GitHub**: [@Ayush2554work](https://github.com/Ayush2554work)
 - **LinkedIn**: [Ayush Kumar](https://www.linkedin.com/in/ayush-kumar2554)
-- **Resume**: [Download PDF](https://drive.google.com/file/d/1NiXjKTn8J5B5Nmk8Dqb-7anHmznRU8Dp/view?usp=sharing)
+- **Resume**: [Download PDF](https://drive.google.com/file/d/1FrP_XrnhKHiFmEnl1Rw1at6pwpoVL4aB/view?usp=sharing)
 
 ## 📧 Contact
 

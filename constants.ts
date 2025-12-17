@@ -1,8 +1,8 @@
 import { Certification, Project, SocialLink } from './types';
 
-export const PROFILE_IMAGE_URL = "/Ayush.png";
+export const PROFILE_IMAGE_URL = "/myphoto2.png";
 
-export const RESUME_LINK = "https://drive.google.com/file/d/1NiXjKTn8J5B5Nmk8Dqb-7anHmznRU8Dp/view?usp=sharing";
+export const RESUME_LINK = "https://drive.google.com/file/d/1FrP_XrnhKHiFmEnl1Rw1at6pwpoVL4aB/view?usp=sharing";
 
 export const SOCIAL_LINKS: SocialLink[] = [
   {
